@@ -10,6 +10,8 @@
 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/omar-mostafiz)  
+[![LinkedIn](https://img.shields.io/badge/website-blue)](https://omarmostafiz.com)  
+
 
 <!--
 **omarm43/omarm43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
